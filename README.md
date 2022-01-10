@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ywj9811
-- 👀 I’m interested in web develope
+- 👀 I’m interested in web developer
 - 🌱 I’m currently learning HTML, JavaScript
 - 📫 My blog: ywj9811.tistory.com
 
