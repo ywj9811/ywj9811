@@ -5,10 +5,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=A8B9CC)  
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=A8B9CC)  ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 ## 🏅STATS🏅
